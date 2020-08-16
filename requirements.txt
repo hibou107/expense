@@ -1,0 +1,4 @@
+matplotlib
+httplib2
+apiclient
+oauth2client
